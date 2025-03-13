@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/680356226118746386/003db91c52bb4d2eb1ea04be85ebb7dc/artifacts
+end_time: 1741886463059
+entry_point_name: ''
+experiment_id: '680356226118746386'
+lifecycle_stage: active
+run_id: 003db91c52bb4d2eb1ea04be85ebb7dc
+run_name: bemused-calf-560
+run_uuid: 003db91c52bb4d2eb1ea04be85ebb7dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741886446427
+status: 3
+tags: []
+user_id: jitendra kumar

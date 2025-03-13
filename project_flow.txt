@@ -1,0 +1,10 @@
+1. Create a git repo and clone it
+2. pip install mlflow
+3. Terminal - mlflow.ui
+4. Create python file and write code for random forest
+5. mlflow code 
+6. create a test.py and convert local to http
+7. create new experiment
+8. Add artifacts, tags, models code in file1.py
+9. 
+10.
