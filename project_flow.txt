@@ -6,5 +6,15 @@
 6. create a test.py and convert local to http
 7. create new experiment
 8. Add artifacts, tags, models code in file1.py
-9. 
-10.
+
+Setting up remote sever for mlflow 
+9. Create dagshub acc and conncet git repo with it 
+10. new repo and and give access to git repo 
+11. pip install dagshub
+12. initilize dagshub and set Tracking uri -- link from dagshub repo
+
+autologing in mlflow
+13. add 'mlflow.autolo()'
+14.
+15.
+
