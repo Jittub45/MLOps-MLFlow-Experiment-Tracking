@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741937719851
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1741937803674
+name: MLFlow-model1
+run_id: 39b3dcdbaed8417cb06a27a49fc5f907
+run_link: ''
+source: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/39b3dcdbaed8417cb06a27a49fc5f907/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/39b3dcdbaed8417cb06a27a49fc5f907/artifacts/random_forest
+user_id: null
+version: 1

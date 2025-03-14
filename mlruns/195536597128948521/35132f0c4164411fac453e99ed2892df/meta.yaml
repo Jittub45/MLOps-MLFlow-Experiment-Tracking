@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/35132f0c4164411fac453e99ed2892df/artifacts
+end_time: 1741933961252
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 35132f0c4164411fac453e99ed2892df
+run_name: chill-wolf-124
+run_uuid: 35132f0c4164411fac453e99ed2892df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741933961131
+status: 3
+tags: []
+user_id: jitendra kumar

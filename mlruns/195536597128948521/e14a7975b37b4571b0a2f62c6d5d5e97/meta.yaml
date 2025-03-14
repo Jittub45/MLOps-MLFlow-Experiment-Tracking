@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/e14a7975b37b4571b0a2f62c6d5d5e97/artifacts
+end_time: 1741933962071
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: e14a7975b37b4571b0a2f62c6d5d5e97
+run_name: spiffy-yak-263
+run_uuid: e14a7975b37b4571b0a2f62c6d5d5e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741933961999
+status: 3
+tags: []
+user_id: jitendra kumar

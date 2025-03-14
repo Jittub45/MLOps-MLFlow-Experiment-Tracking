@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/2e89ddeae369485a926b3d07699b29d2/artifacts
+end_time: 1741932132228
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 2e89ddeae369485a926b3d07699b29d2
+run_name: beautiful-deer-467
+run_uuid: 2e89ddeae369485a926b3d07699b29d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741932132065
+status: 3
+tags: []
+user_id: jitendra kumar

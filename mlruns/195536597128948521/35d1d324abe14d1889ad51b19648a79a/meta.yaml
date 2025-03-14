@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/35d1d324abe14d1889ad51b19648a79a/artifacts
+end_time: 1741933961668
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 35d1d324abe14d1889ad51b19648a79a
+run_name: dashing-seal-825
+run_uuid: 35d1d324abe14d1889ad51b19648a79a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741933961593
+status: 3
+tags: []
+user_id: jitendra kumar

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/a8d0b05fbde64f3c9aa5b54224514fc7/artifacts
+end_time: 1741933961749
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: a8d0b05fbde64f3c9aa5b54224514fc7
+run_name: rumbling-hound-437
+run_uuid: a8d0b05fbde64f3c9aa5b54224514fc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741933961678
+status: 3
+tags: []
+user_id: jitendra kumar

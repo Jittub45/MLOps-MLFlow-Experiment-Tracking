@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/6e57c8fc2bc6477ea587def93b8f3372/artifacts
+end_time: 1741933961910
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 6e57c8fc2bc6477ea587def93b8f3372
+run_name: agreeable-jay-833
+run_uuid: 6e57c8fc2bc6477ea587def93b8f3372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741933961836
+status: 3
+tags: []
+user_id: jitendra kumar

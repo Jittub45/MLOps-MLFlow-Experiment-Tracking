@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/3b1dbeaef35344e4860b0f091a4fabdb/artifacts
+end_time: 1741932132850
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 3b1dbeaef35344e4860b0f091a4fabdb
+run_name: capricious-mule-465
+run_uuid: 3b1dbeaef35344e4860b0f091a4fabdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741932132772
+status: 3
+tags: []
+user_id: jitendra kumar

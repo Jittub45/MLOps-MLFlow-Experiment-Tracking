@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/8cb8d0fcc90a4f15a850efdbad1e5854/artifacts
+end_time: 1741932132503
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 8cb8d0fcc90a4f15a850efdbad1e5854
+run_name: languid-toad-207
+run_uuid: 8cb8d0fcc90a4f15a850efdbad1e5854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741932132424
+status: 3
+tags: []
+user_id: jitendra kumar

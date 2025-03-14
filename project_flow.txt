@@ -15,6 +15,10 @@ Setting up remote sever for mlflow
 
 autologing in mlflow
 13. add 'mlflow.autolo()'
-14.
-15.
+
+hypertuning (logging all the child run)
+14. mlflow as parent(add the code for it)  
+15. all the child run are logged to now all can be compared using mlflo ui
+
+model registery in mlflow
 

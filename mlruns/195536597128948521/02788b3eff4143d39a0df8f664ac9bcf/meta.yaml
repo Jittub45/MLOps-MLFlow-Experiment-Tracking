@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/02788b3eff4143d39a0df8f664ac9bcf/artifacts
+end_time: 1741933961991
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 02788b3eff4143d39a0df8f664ac9bcf
+run_name: fun-moose-239
+run_uuid: 02788b3eff4143d39a0df8f664ac9bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741933961921
+status: 3
+tags: []
+user_id: jitendra kumar

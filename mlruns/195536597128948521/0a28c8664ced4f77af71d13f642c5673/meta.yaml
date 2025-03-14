@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/0a28c8664ced4f77af71d13f642c5673/artifacts
+end_time: 1741933961830
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 0a28c8664ced4f77af71d13f642c5673
+run_name: silent-mule-312
+run_uuid: 0a28c8664ced4f77af71d13f642c5673
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741933961755
+status: 3
+tags: []
+user_id: jitendra kumar

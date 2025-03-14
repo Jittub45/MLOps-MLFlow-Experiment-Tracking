@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/993170fde9994decab0302ad8f2f16d0/artifacts
+end_time: 1741932132940
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 993170fde9994decab0302ad8f2f16d0
+run_name: fortunate-koi-574
+run_uuid: 993170fde9994decab0302ad8f2f16d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741932132856
+status: 3
+tags: []
+user_id: jitendra kumar

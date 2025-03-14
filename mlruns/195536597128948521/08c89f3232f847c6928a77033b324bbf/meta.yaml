@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Jitendra/MLOPS/MLOps-MLFlow-Experiment-Tracking/mlruns/195536597128948521/08c89f3232f847c6928a77033b324bbf/artifacts
+end_time: 1741932142855
+entry_point_name: ''
+experiment_id: '195536597128948521'
+lifecycle_stage: active
+run_id: 08c89f3232f847c6928a77033b324bbf
+run_name: clumsy-gnu-47
+run_uuid: 08c89f3232f847c6928a77033b324bbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741932125056
+status: 3
+tags: []
+user_id: jitendra kumar
