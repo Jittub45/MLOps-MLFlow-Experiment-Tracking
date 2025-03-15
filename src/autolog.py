@@ -36,7 +36,6 @@ with mlflow.start_run():
     y_pred = rf.predict(x_test)
     accuracy = accuracy_score(y_test, y_pred)
 
-
     #Creating a confusion matrix plt
     cm = confusion_matrix(y_test, y_pred)
     plt.figure(figsize=(6,6))
@@ -47,13 +46,9 @@ with mlflow.start_run():
 
     # save plot
     plt.savefig("Confusion-matrix.png")
-
     mlflow.log_artifact(__file__)
 
     # tags
     mlflow.set_tags({"Author": 'Jitendra', "Project": "Wine Classification"})
-
-
-
 
     print(accuracy)
