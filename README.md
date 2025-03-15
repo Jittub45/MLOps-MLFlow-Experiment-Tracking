@@ -10,7 +10,7 @@ This project demonstrates how to implement experiment tracking using MLflow. It 
 - Remote Storage & Tracking: DagsHub
 - Version Control: GitHub
 
-
+```
  📂 Project Structure
 MLOps-MLFlow-Experiment-Tracking/
 │── mlartifacts/             # Stored MLflow artifacts (models, logs, etc.)
@@ -25,7 +25,7 @@ MLOps-MLFlow-Experiment-Tracking/
 │── mlflow-autolog.txt       # Notes on MLflow auto-logging
 │── mlflow-basics.txt        # Basics of MLflow experiment tracking
 │── project_flow.txt         # Step-by-step workflow for the project
-
+```
 
  🛠️ Setup Instructions
 1. Create a GitHub repository and clone it locally.
