@@ -80,6 +80,6 @@ MLOps-MLFlow-Experiment-Tracking/
  📩 Contact
 For queries, feel free to reach out:
 - GitHub: [Jittub45](https://github.com/Jittub45)
-
+- Twitter: jittub45
  🏁 Conclusion
 This project showcases a complete experiment tracking pipeline with MLflow, including local and remote tracking, auto-logging, hyperparameter tuning, and model versioning. Future enhancements may include model deployment and real-time monitoring.
